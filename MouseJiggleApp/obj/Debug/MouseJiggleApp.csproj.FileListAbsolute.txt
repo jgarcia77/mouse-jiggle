@@ -1,0 +1,10 @@
+C:\Code\MouseJiggleApp\MouseJiggleApp\bin\Debug\MouseJiggleApp.exe.config
+C:\Code\MouseJiggleApp\MouseJiggleApp\bin\Debug\MouseJiggleApp.exe
+C:\Code\MouseJiggleApp\MouseJiggleApp\bin\Debug\MouseJiggleApp.pdb
+C:\Code\MouseJiggleApp\MouseJiggleApp\obj\Debug\MouseJiggleApp.csprojAssemblyReference.cache
+C:\Code\MouseJiggleApp\MouseJiggleApp\obj\Debug\MouseJiggleApp.frmMouseJiggle.resources
+C:\Code\MouseJiggleApp\MouseJiggleApp\obj\Debug\MouseJiggleApp.Properties.Resources.resources
+C:\Code\MouseJiggleApp\MouseJiggleApp\obj\Debug\MouseJiggleApp.csproj.GenerateResource.cache
+C:\Code\MouseJiggleApp\MouseJiggleApp\obj\Debug\MouseJiggleApp.csproj.CoreCompileInputs.cache
+C:\Code\MouseJiggleApp\MouseJiggleApp\obj\Debug\MouseJiggleApp.exe
+C:\Code\MouseJiggleApp\MouseJiggleApp\obj\Debug\MouseJiggleApp.pdb
